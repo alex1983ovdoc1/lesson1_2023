@@ -5,16 +5,16 @@ def cut_cake(parts):
         return 'You, normal?'
 
 cake = cut_cake([1, 2, 5])
-print(cake)
+# print(cake)
 
-def do_something(x):
-   try:
-       print(x)
-   except:
-       print('Bye!!!')
+# def do_something(x):
+#    try:
+#        print(x)
+#    except:
+#        print('Bye!!!')
 
 
-x = 0
-while x < 10:
-   do_something(x)
-x += 1
+# x = 0
+# while x < 10:
+#    do_something(x)
+# x += 1
